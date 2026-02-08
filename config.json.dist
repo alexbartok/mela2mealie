@@ -1,0 +1,4 @@
+{
+  "mealie_url": "http://mealie.example.com:9925",
+  "api_token": "your-mealie-api-token-here"
+}

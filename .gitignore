@@ -1,0 +1,6 @@
+token.txt
+config.json
+*.melarecipes
+*.melarecipe
+__pycache__/
+.DS_Store
